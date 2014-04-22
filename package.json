@@ -6,11 +6,11 @@
   "private":true,
   "repository": {
       "type": "git",
-      "url": "https://github.com/southbite/utils-pluggable-service-layer"
+      "url": "https://github.com/southbite/utils-pluggable-service-layer.git"
   },
   "dependencies": {
     "async": "~0.7.0",
-    "utils-event-framework":"https://github.com/southbite/utils_event_framework.git"
+    "event-framework":"git+https://github.com/southbite/utils_event_framework.git"
   },
   "devDependencies": {
     "mocha": "~1.12.0",
