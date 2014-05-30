@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "async": "~0.7.0",
-    "utils-event-framework":"git+https://github.com/southbite/utils_event_framework.git"
+    "utils-event-framework":"git+ssh://git@github.com:southbite/utils_event_framework.git"
   },
   "devDependencies": {
     "mocha": "~1.12.0",
